@@ -1,0 +1,7 @@
+name: Hg
+version: '1.0-SNAPSHOT'
+main: de.taitopvp.hg.Main
+api-version: 1.17
+commands:
+  addplayers:
+    description: bruH
